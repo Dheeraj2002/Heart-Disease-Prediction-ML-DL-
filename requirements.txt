@@ -10,7 +10,7 @@ scikit-learn==0.23.2
 scikit-image==0.15.0
 six==1.15.0
 pandas-profiling==2.8.0
-tensorflow==2.2.0
+tensorflow>=2.2.1
 MarkupSafe==1.1.1
 ipykernel==5.1.2
 xgboost==0.90
